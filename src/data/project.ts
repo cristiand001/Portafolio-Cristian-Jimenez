@@ -1,5 +1,5 @@
-import referbbyImg from "../assets/images/Referbby.png";
-import distritoModaImg from "../assets/images/distritoModa.png";
+import referbbyImg from "../assets/images/referbby.png";
+import distritoModaImg from "../assets/images/distritomoda.png";
 import adbizeImg from "../assets/images/adbize.png";
 
 export interface Project {
