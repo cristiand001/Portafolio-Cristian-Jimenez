@@ -47,7 +47,7 @@ export const About = () => {
             className="relative"
           >
             <div className="glass-card p-3 rounded-3xl">
-              <InteractiveImage src="/images/workspace.jpg" alt="Mi setup" />
+              <InteractiveImage src="/images/Workspace.jpg" alt="Mi setup" />
             </div>
             <motion.div
               animate={{ rotate: 360 }}
