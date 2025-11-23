@@ -1,5 +1,5 @@
 import referbbyImg from "../assets/images/referbby.png";
-import distritoModaImg from "../assets/images/distrito.jpg";
+import distritoModaImg from "../assets/images/distritoflores.jpg";
 import adbizeImg from "../assets/images/adbize.png";
 
 export interface Project {
