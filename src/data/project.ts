@@ -1,6 +1,6 @@
-import ReferbbyImg from "../assets/images/Referbby.png";
-import DistritoModaImg from "../assets/images/DistritoModa.png";
-import AdbizeImg from "../assets/images/Adbize.png";
+import referbbyImg from "../assets/images/Referbby.png";
+import distritoModaImg from "../assets/images/distritoModa.png";
+import adbizeImg from "../assets/images/adbize.png";
 
 export interface Project {
   title: string;
@@ -18,7 +18,7 @@ export const projects: Project[] = [
     title: "Referbby",
     description:
       "Sistema de referencias con embajadores, tracking de comisiones y pagos con Stripe.",
-    image: ReferbbyImg,
+    image: referbbyImg,
     tech: ["NestJS", "React", "TypeScript", "Stripe", "PostgreSQL", "TypeORM"],
     github: "https://github.com/cristiand001",
     live: "https://referby-front.vercel.app/",
@@ -29,7 +29,7 @@ export const projects: Project[] = [
     title: "Desarrollemos MX (Adbize)",
     description:
       "Portal académico para universidad con gestión de cursos, calificaciones y roles diferenciados.",
-    image: AdbizeImg,
+    image: adbizeImg,
     tech: ["React", "Node.js", "Supabase", "Socket.io", "PostgreSQL", "OpenAI"],
     github: "https://github.com/cristiand001",
     live: "https://desarrollemosmx.vercel.app/",
@@ -40,7 +40,7 @@ export const projects: Project[] = [
     title: "Distrito Moda",
     description:
       "E-commerce mayorista con integración de APIs de logística y pagos.",
-    image: DistritoModaImg,
+    image: distritoModaImg,
     tech: ["Drupal", "PHP", "JavaScript", "MySQL", "MercadoPago API"],
     live: "https://distritomoda.com.ar",
     category: "fullstack",
