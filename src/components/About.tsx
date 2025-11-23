@@ -1,4 +1,3 @@
-import WorkspaceImg from "../assets/images/Workspace.jpg";
 import { motion } from "framer-motion";
 import {
   Boxes,
@@ -48,7 +47,7 @@ export const About = () => {
             className="relative"
           >
             <div className="glass-card p-3 rounded-3xl">
-              <InteractiveImage src={WorkspaceImg} alt="Mi setup" />
+              <InteractiveImage src="/images/workspace.jpg" alt="Mi setup" />
             </div>
             <motion.div
               animate={{ rotate: 360 }}
