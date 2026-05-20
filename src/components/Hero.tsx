@@ -116,7 +116,7 @@ export const Hero = () => {
                 </div>
                 <DropdownMenuItem asChild>
                   <a
-                    href="/CV/CV_ES.pdf"
+                    href="/CV/Resume_CristianES.pdf"
                     download="Cristian_Jimenez_CV_ES.pdf"
                     className="flex items-center gap-2 cursor-pointer"
                   >
