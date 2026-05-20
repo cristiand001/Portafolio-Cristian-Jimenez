@@ -73,7 +73,7 @@ export const projects: Project[] = [
     title: "SyroxTech",
     description:
       "Panel de administración para e-commerce con gestión de productos, órdenes, categorías, dashboard con métricas y exportación CSV.",
-    image: "/images/SyroxTech.jpg",
+    image: "/images/logo2.jpg",
     tech: [
       "NestJS",
       "Next.js",
